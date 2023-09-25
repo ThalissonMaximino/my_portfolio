@@ -58,8 +58,18 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+              {/* Discover here in this environment, created especially for you, all
+              my projects and technologies */}
+              I am a Web Developer who, throughout his journey, has developed more than 30
+projects using various technologies such as Typescript, Python, React, Nodejs, I have
+experience in creating Back-end projects, mainly in APIs for web applications,
+in addition to being aware of building Front-End projects, working with react, figma,
+html and CSS. Furthermore, I always work with tools like notion, obsidian and trello
+for organizational purposes, and also technologies such as JEST to carry out testing in mines
+applications. I have experience in agile methodologies such as Scrum to boost
+income from my work, finally I have the ability to write and read advanced
+English and fluent conversation in the language. That said, I'm looking for job openings
+Junior Web Developer in the technology job market.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
